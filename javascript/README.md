@@ -45,6 +45,19 @@ You can create adventure teams and operations from the [Operator console](https:
 
 Many of the objectives in TwilioQuest require the player to write code to progress. Here you can find sample solutions to pass each objective. It's important to note that in most programming languages, there are many ways to achieve an end result, and code may pass the objective that doesn't look exactly like the samples. Where more than one interesting solution exists for an objective, there may be more than one sample provided.
 
+You can view all samples [here](/sample-solutions), or find samples by lesson below.
+## Lesson 1
+
+## Lesson 2
+
+## Lesson 3
+
+## Lesson 4
+
+## Lesson 5
+
+## Lesson 6
+
 # Further resources
 
 # IT Guide
