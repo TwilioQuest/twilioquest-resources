@@ -56,7 +56,7 @@ This objective does not require any code, but there may be lengthy downtime whil
 
 ### Completing the objective
 
-To complete the objective, the student must download the Node.js installer, complete the installation, and then paste the path (that is, the location on the file system) of the Node.js executable into the text box on TwilioQuest.
+To complete the objective, students must download the Node.js installer, complete the installation, and then paste the path (that is, the location on the file system) of the Node.js executable into the text box on TwilioQuest.
 
 Once the download is completed, the student will have the Node.js installer on their machine. Double clicking the installer will start the installation wizard. At the end of the installation, Node.js will be installed to a location on the student's machine. This location will vary by operating system:
 
@@ -73,6 +73,21 @@ The following resources are linked to within the objective screens and will be v
 - [https://www.nodejs.org/](https://www.nodejs.org/)
   - This site is the official website of Node.js, and the recommended place to download Node.js from.
 
-## Create a workspace
+## Objective 2: Create a workspace
+
+During this objective, students will create a space for the code they will write throughout the mission, whilst growing more familiar with the terminal. 
+
+### Completing the objective
+
+To complete the objective, students must create a directory on their computer to store the Javascript code they will create during the lesson. When they have created the directory, they enter the path to the directory into the text box on TwilioQuest to progress.
+
+Whilst this objective could be completed with the graphical user interface on most systems, it's recommended that students complete the task using the command line interface to continue building their comfort with the terminal. On MacOS, Linux, and Windows PowerShell, the commands are the same:
+
+- `cd ~` to change to the student's home directory.
+- `mkdir quest` to make a directory named "quest".
+- `cd quest` to change to the new directory.
+- `pwd` to print the path to the current directory.
+
+Once the path has been printed, students can copy and paste into TwilioQuest to complete the objective and progress.
 
 ## You didn't say please
