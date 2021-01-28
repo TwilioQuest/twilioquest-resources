@@ -32,6 +32,8 @@ It's recommended that TwilioQuest be installed before the start of the lesson. T
 
 On first starting TwilioQuest, students will be prompted to create an avatar (a character). If students are using their own machines and installing before the class, you could encourage them to share their avatars ahead of the lesson to create anticipation for the upcoming class.
 
+Throughout the mission, students will create and edit Javascript files. To do this, they will need a text editor. Most operating systems come with a basic text editor ready installed, but there are many more powerful tools that are freely available, and widely used in industry. One such tool is [VSCode](https://code.visualstudio.com/), by Microsoft. It is available for all major operating systems. It is recommended that students install a text editor like VSCode before the beginning of the class.
+
 ### Teams and operations
 
 ## Boarding the Fog Owl
@@ -90,4 +92,6 @@ Whilst this objective could be completed with the graphical user interface on mo
 
 Once the path has been printed, students can copy and paste into TwilioQuest to complete the objective and progress.
 
-## You didn't say please
+## Objective 3: You didn't say please
+
+During this objective, students will write their first Javascript program. The program will be a traditional "Hello, World!", outputting some text to the terminal. They will initially start in the terminal, navigating to their earlier  created project directory and then creating a file. After that, they will open the file in their text editor to write the required Javascript. They will return to the terminal to use Node.js to test the code and see the results.
