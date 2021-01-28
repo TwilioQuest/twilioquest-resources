@@ -1,0 +1,3 @@
+function getLaserSetting(){
+    return "OFF"
+}

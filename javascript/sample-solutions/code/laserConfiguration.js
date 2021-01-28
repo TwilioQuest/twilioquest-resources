@@ -1,0 +1,1 @@
+laserStatus = "OFF"
