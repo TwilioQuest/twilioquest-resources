@@ -1,5 +1,24 @@
 # Lesson 1: Installation and setup
 
+## Table of Contents
+
+- [Lesson 1: Installation and setup](#lesson-1-installation-and-setup)
+  - [Table of Contents](#table-of-contents)
+  - [Learning objectives](#learning-objectives)
+  - [Essential questions](#essential-questions)
+  - [Activities in this lesson](#activities-in-this-lesson)
+  - [Before the lesson begins](#before-the-lesson-begins)
+    - [Teams and operations](#teams-and-operations)
+  - [Boarding the Fog Owl](#boarding-the-fog-owl)
+  - [Beginning the Mission](#beginning-the-mission)
+  - [Objective 1: Set up your Node.js environment](#objective-1-set-up-your-nodejs-environment)
+    - [Completing the objective](#completing-the-objective)
+    - [Linked resources](#linked-resources)
+  - [Objective 2: Create a workspace](#objective-2-create-a-workspace)
+    - [Completing the objective](#completing-the-objective-1)
+  - [Objective 3: You didn't say please](#objective-3-you-didnt-say-please)
+  - [Wrapping up the lesson](#wrapping-up-the-lesson)
+
 ## Learning objectives
 
 By the end of this lesson, students will:
@@ -22,9 +41,9 @@ By the end of this lesson, students will:
 
 During this lesson, students will complete 3 mission objectives. You can find more detail about each objective later in the lesson plan. 
 
-- [Set up your Node.js environment](#set-up-your-nodejs-environment)
-- [Create a workspace](#you-didnt-say-please)
-- [You didn't say please](#set-up-your-nodejs-environment)
+- [Set up your Node.js environment](#objective-1-set-up-your-nodejs-environment)
+- [Create a workspace](#objective-2-create-a-workspace)
+- [You didn't say please](#objective-3-you-didnt-say-please)
 
 ## Before the lesson begins
 
