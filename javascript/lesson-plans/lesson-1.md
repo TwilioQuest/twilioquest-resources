@@ -34,6 +34,8 @@ On first starting TwilioQuest, students will be prompted to create an avatar (a 
 
 Throughout the mission, students will create and edit Javascript files. To do this, they will need a text editor. Most operating systems come with a basic text editor ready installed, but there are many more powerful tools that are freely available, and widely used in industry. One such tool is [VSCode](https://code.visualstudio.com/), by Microsoft. It is available for all major operating systems. It is recommended that students install a text editor like VSCode before the beginning of the class.
 
+This lesson provides ample time for the downloading and installation of software during the lesson activities, namely Node.js. If students are not able to download and install software themselves in your school environment, or you would rather complete the installation in advance, you may want to continue to objectives in [Lesson 2](lesson-2.md) after completing objective 3 below.
+
 ### Teams and operations
 
 ## Boarding the Fog Owl
@@ -95,3 +97,20 @@ Once the path has been printed, students can copy and paste into TwilioQuest to 
 ## Objective 3: You didn't say please
 
 During this objective, students will write their first Javascript program. The program will be a traditional "Hello, World!", outputting some text to the terminal. They will initially start in the terminal, navigating to their earlier  created project directory and then creating a file. After that, they will open the file in their text editor to write the required Javascript. They will return to the terminal to use Node.js to test the code and see the results.
+
+ß### Completing the objective
+
+To complete the objective, students must create a file called `sayPlease.js` and write a `console.log` statement that outputs `Glen, will you please open the barrier?` to the terminal. You can see the full code snippet in the [samples](/javascript/sample-solutions/code/sayPlease.js). Ensure the students save the file in the project directory they created earlier.
+
+Students will be able to pass the objective immediately upon saving the file with the correct contents, however it is recommended that they also first run the file and see the output themselves. Aside from being an exciting moment in seeing code they have written work, this exercise will develop familiarity with executing `.js` files with Node.js, and introduce the concept of testing code.
+
+To execute their code, in the terminal, they should navigate to the project directory they created earlier, and type `node sayPlease.js`.
+
+## Wrapping up the lesson
+
+That is the end of the recommended objectives for this lesson.
+
+In the next lesson, students will be introduced to two key programming concepts:
+
+- Providing parameters to programs.
+- Storing data in variables.
