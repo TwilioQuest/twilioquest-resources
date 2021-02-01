@@ -38,6 +38,10 @@ During this lesson, students will complete 4 mission objectives. You can find mo
 
 ## Before the lesson begins
 
+When students return to TwilioQuest between lessons, they will find themselves aboard the Fog Owl again. Their progress in the missions will have been saved. To pick up where they left off, they just need to go to the virtual reality pod with the green light on the right side of the Fog Owl, and select the Javascript Test Lab mission again.
+
+When re-entering the mission, they will be at the start of the level, but will not have to recomplete any previously completed objectives. Direct students to walk through the level to the last opened barrier to start the lesson.
+
 ## Objective 1: Variable results
 
 ## Objective 2: Multi variable
