@@ -17,6 +17,7 @@
   - [Objective 2: Create a workspace](#objective-2-create-a-workspace)
     - [Completing the objective](#completing-the-objective-1)
   - [Objective 3: You didn't say please](#objective-3-you-didnt-say-please)
+    - [Completing the objective](#completing-the-objective-2)
   - [Wrapping up the lesson](#wrapping-up-the-lesson)
 
 ## Learning objectives
@@ -117,7 +118,7 @@ Once the path has been printed, students can copy and paste into TwilioQuest to 
 
 During this objective, students will write their first Javascript program. The program will be a traditional "Hello, World!", outputting some text to the terminal. They will initially start in the terminal, navigating to their earlier  created project directory and then creating a file. After that, they will open the file in their text editor to write the required Javascript. They will return to the terminal to use Node.js to test the code and see the results.
 
-ß### Completing the objective
+### Completing the objective
 
 To complete the objective, students must create a file called `sayPlease.js` and write a `console.log` statement that outputs `Glen, will you please open the barrier?` to the terminal. You can see the full code snippet in the [samples](/javascript/sample-solutions/code/sayPlease.js). Ensure the students save the file in the project directory they created earlier.
 

@@ -44,6 +44,8 @@ When re-entering the mission, they will be at the start of the level, but will n
 
 ## Objective 1: Variable results
 
+
+
 ## Objective 2: Multi variable
 
 ## Objective 3: Script arguments
