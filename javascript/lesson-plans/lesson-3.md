@@ -1,17 +1,20 @@
-# Lesson 2: Variables and program input
+# Lesson 3: Control flow and boolean logic
 
 ## Table of Contents
 
-- [Lesson 2: Variables and program input](#lesson-2-variables-and-program-input)
+- [Lesson 3: Control flow and boolean logic](#lesson-3-control-flow-and-boolean-logic)
   - [Table of Contents](#table-of-contents)
   - [Learning objectives](#learning-objectives)
   - [Essential questions](#essential-questions)
   - [Activities in this lesson](#activities-in-this-lesson)
   - [Before the lesson begins](#before-the-lesson-begins)
-  - [Objective 1: Variable results](#objective-1-variable-results)
-  - [Objective 2: Multi variable](#objective-2-multi-variable)
-  - [Objective 3: Script arguments](#objective-3-script-arguments)
-  - [Objective 4: Begin the big test](#objective-4-begin-the-big-test)
+  - [Objective 1: Your first conditional](#objective-1-your-first-conditional)
+  - [Objective 2: If Alive then Bridge](#objective-2-if-alive-then-bridge)
+  - [Objective 3: If Tree then Bridge](#objective-3-if-tree-then-bridge)
+  - [Objective 4: Enable beam 2](#objective-4-enable-beam-2)
+  - [Extension](#extension)
+    - [Water if Needed](#water-if-needed)
+    - [Dusty Old chest](#dusty-old-chest)
 ## Learning objectives
 
 By the end of this lesson, students will:
@@ -42,10 +45,16 @@ When students return to TwilioQuest between lessons, they will find themselves a
 
 When re-entering the mission, they will be at the start of the level, but will not have to recomplete any previously completed objectives. Direct students to walk through the level to the last opened barrier to start the lesson.
 
-## Objective 1: Variable results
+## Objective 1: Your first conditional
 
-## Objective 2: Multi variable
+## Objective 2: If Alive then Bridge
 
-## Objective 3: Script arguments
+## Objective 3: If Tree then Bridge
 
-## Objective 4: Begin the big test
+## Objective 4: Enable beam 2
+
+## Extension
+
+### Water if Needed
+
+### Dusty Old chest

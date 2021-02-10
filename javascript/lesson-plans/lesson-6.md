@@ -1,17 +1,17 @@
-# Lesson 2: Variables and program input
+# Lesson 6: Objects and classes
 
 ## Table of Contents
 
-- [Lesson 2: Variables and program input](#lesson-2-variables-and-program-input)
+- [Lesson 6: Objects and classes](#lesson-6-objects-and-classes)
   - [Table of Contents](#table-of-contents)
   - [Learning objectives](#learning-objectives)
   - [Essential questions](#essential-questions)
   - [Activities in this lesson](#activities-in-this-lesson)
   - [Before the lesson begins](#before-the-lesson-begins)
-  - [Objective 1: Variable results](#objective-1-variable-results)
-  - [Objective 2: Multi variable](#objective-2-multi-variable)
-  - [Objective 3: Script arguments](#objective-3-script-arguments)
-  - [Objective 4: Begin the big test](#objective-4-begin-the-big-test)
+  - [Objective 1: Object of my affection](#objective-1-object-of-my-affection)
+  - [Objective 2: Class Act](#objective-2-class-act)
+  - [Objective 3: Enable beam 4](#objective-3-enable-beam-4)
+  - [Objective 4: Reverse the experiment](#objective-4-reverse-the-experiment)
 ## Learning objectives
 
 By the end of this lesson, students will:
@@ -42,10 +42,10 @@ When students return to TwilioQuest between lessons, they will find themselves a
 
 When re-entering the mission, they will be at the start of the level, but will not have to recomplete any previously completed objectives. Direct students to walk through the level to the last opened barrier to start the lesson.
 
-## Objective 1: Variable results
+## Objective 1: Object of my affection
 
-## Objective 2: Multi variable
+## Objective 2: Class Act
 
-## Objective 3: Script arguments
+## Objective 3: Enable beam 4
 
-## Objective 4: Begin the big test
+## Objective 4: Reverse the experiment

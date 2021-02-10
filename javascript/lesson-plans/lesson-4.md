@@ -1,17 +1,18 @@
-# Lesson 2: Variables and program input
+# Lesson 4: Functions and arrays
 
 ## Table of Contents
 
-- [Lesson 2: Variables and program input](#lesson-2-variables-and-program-input)
+- [Lesson 4: Functions and arrays](#lesson-4-functions-and-arrays)
   - [Table of Contents](#table-of-contents)
   - [Learning objectives](#learning-objectives)
   - [Essential questions](#essential-questions)
   - [Activities in this lesson](#activities-in-this-lesson)
   - [Before the lesson begins](#before-the-lesson-begins)
-  - [Objective 1: Variable results](#objective-1-variable-results)
-  - [Objective 2: Multi variable](#objective-2-multi-variable)
-  - [Objective 3: Script arguments](#objective-3-script-arguments)
-  - [Objective 4: Begin the big test](#objective-4-begin-the-big-test)
+  - [Objective 1: How do you even function](#objective-1-how-do-you-even-function)
+  - [Objective 2: Function arguments](#objective-2-function-arguments)
+  - [Objective 3: In splendid array](#objective-3-in-splendid-array)
+  - [Objective 4: Accessing arrays](#objective-4-accessing-arrays)
+  - [Objective 5: Array built-in functions](#objective-5-array-built-in-functions)
 ## Learning objectives
 
 By the end of this lesson, students will:
@@ -42,10 +43,12 @@ When students return to TwilioQuest between lessons, they will find themselves a
 
 When re-entering the mission, they will be at the start of the level, but will not have to recomplete any previously completed objectives. Direct students to walk through the level to the last opened barrier to start the lesson.
 
-## Objective 1: Variable results
+## Objective 1: How do you even function
 
-## Objective 2: Multi variable
+## Objective 2: Function arguments
 
-## Objective 3: Script arguments
+## Objective 3: In splendid array
 
-## Objective 4: Begin the big test
+## Objective 4: Accessing arrays
+
+## Objective 5: Array built-in functions
