@@ -120,7 +120,7 @@ During this objective, students will write their first Javascript program. The p
 
 ### Completing the objective
 
-To complete the objective, students must create a file called `sayPlease.js` and write a `console.log` statement that outputs `Glen, will you please open the barrier?` to the terminal. You can see the full code snippet in the [samples](/javascript/sample-solutions/code/sayPlease.js). Ensure the students save the file in the project directory they created earlier.
+To complete the objective, students must create a file named `sayPlease.js` and write a `console.log` statement that outputs `Glen, will you please open the barrier?` to the terminal. You can see the full code snippet in the [samples](/javascript/sample-solutions/code/sayPlease.js). Ensure the students save the file in the project directory they created earlier.
 
 Students will be able to pass the objective immediately upon saving the file with the correct contents, however it is recommended that they also first run the file and see the output themselves. Aside from being an exciting moment in seeing code they have written work, this exercise will develop familiarity with executing `.js` files with Node.js, and introduce the concept of testing code.
 
