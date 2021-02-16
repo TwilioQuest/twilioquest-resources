@@ -18,12 +18,12 @@ The `JavaScript Test Lab` teaches the fundamentals of programming with JavaScrip
 
 These example lesson plans are for a series of six 60-90 minute lessons covering Javascript fundamentals using the `Javascript Test Lab` as core teaching material. 
 
-- Lesson 1: Installation and setup
-- Lesson 2: Variables and program input
-- Lesson 3: Control flow and boolean logic
-- Lesson 4: Functions and arrays
-- Lesson 5: Loops and iteration
-- Lesson 6: Objects and classes
+- [Lesson 1: Installation and setup](/javascript/lesson-plans/lesson-1.md)
+- [Lesson 2: Variables and program input](/javascript/lesson-plans/lesson-2.md)
+- [Lesson 3: Control flow and boolean logic](/javascript/lesson-plans/lesson-3.md)
+- [Lesson 4: Functions and arrays](/javascript/lesson-plans/lesson-4.md)
+- [Lesson 5: Loops and iteration](/javascript/lesson-plans/lesson-5.md)
+- [Lesson 6: Objects and classes](/javascript/lesson-plans/lesson-6.md)
 
 # Progress and class structure
 
@@ -40,6 +40,8 @@ Here are some ways you might want to use adventure teams or operations in your c
 You can create adventure teams and operations from the [Operator console](https://twilio.com/quest/app/educator). When creating an adventure team or operation, you will be given a join code. Students can join the team or operation by entering the join code in the settings of their TwilioQuest app. 
 
 # Instructors' slides
+
+Instructors' slides are  coming soon! 
 
 # Sample solutions
 
