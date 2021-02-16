@@ -66,7 +66,7 @@ This lesson is a good opportunity to address several topics:
 
 - Data types: the students will be instructed to set the variable to a value of type `String`. Consider exploring some other common data types, such as numbers and booleans. These can be further explored in the next objective, "Multi variable".
 - Types of variables: the included example code uses `const` to declare the variable. This is not required, and in fact there are many ways to declare variables in Javascript, that each have differences.
-- 
+
 ### Completing the objective
 
 To complete the objective, students must create a file named `laserConfiguration.js`. In this file, they must declare a variable `laserStatus` whose value is `"OFF"`. Once the file is saved, they will be able to complete the objective immediately with the `HACK` button. But as before, it is recommended that the students are directed to explore and experiment with what they have learned.
@@ -90,7 +90,7 @@ The following resources are linked to within the Objective screen and will be vi
 
 The following resources are linked to within the Help screen and will be visible to the student:
 
-- https://javascript.info/variables
+- [Variables on Javascript.info](https://javascript.info/variables)
 
 ## Objective 2: Multi variable
 
@@ -116,14 +116,14 @@ With multiple variables being declared, this is also a good opportunity to explo
 
 The following resources are linked to within the Objective screen and will be visible to the student:
 
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
+- [Booleans on the Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean)
+- [Numbes on the Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
+- [Strings on the Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 
 The following resources are linked to within the Help screen and will be visible to the student:
 
-- https://javascript.info/variables
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+- [Variables on Javascript.info](https://javascript.info/variables)
+- [Data structures on the Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 
 ## Objective 3: Script arguments
 
