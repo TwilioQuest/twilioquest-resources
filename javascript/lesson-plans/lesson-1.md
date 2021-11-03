@@ -52,6 +52,8 @@ It's recommended that TwilioQuest be installed before the start of the lesson. T
 
 On first starting TwilioQuest, students will be prompted to create an avatar (a character). If students are using their own machines and installing before the class, you could encourage them to share their avatars ahead of the lesson to create anticipation for the upcoming class.
 
+Following character creation, students will be introduced to TwilioQuest through a cinematic and a prologue mission. The cinematic and prologue set up the narrative of the game, and teach students how to control their characters and interact with the TwilioQuest world. Both cinematic and prologue are skippable, if you want to get straight into the mission content. It is recommended though that first time players complete the prologue. See the [prologue lesson plan](../../prologue/README.md).
+
 Throughout the mission, students will create and edit Javascript files. To do this, they will need a text editor. Most operating systems come with a basic text editor ready installed, but there are many more powerful tools that are freely available, and widely used in industry. One such tool is [VSCode](https://code.visualstudio.com/), by Microsoft. It is available for all major operating systems. It is recommended that students install a text editor like VSCode before the beginning of the class.
 
 This lesson provides ample time for the downloading and installation of software during the lesson activities, namely Node.js. If students are not able to download and install software themselves in your school environment, or you would rather complete the installation in advance, you may want to continue to objectives in [Lesson 2](lesson-2.md) after completing objective 3 below.
@@ -60,17 +62,13 @@ This lesson provides ample time for the downloading and installation of software
 
 ## Boarding the Fog Owl
 
-When student's start TwilioQuest, they will find themselves in a ship, the Fog Owl. The Fog Owl is the hub of TwilioQuest: from here, students can access all of the Missions available in the game.
+When student's start TwilioQuest, they will find themselves in a ship, the Fog Owl. The Fog Owl is the hub of TwilioQuest: from here, students can access all of the Missions available in the game. Missions exist in two locations: the Navigation Map, to the North of the ship, and the VR Training Console to the East of the ship.
 
-Students can learn more about TwilioQuest by speaking to Cedric. When they are ready, they can end the conversation and climb into the virtual reality pod to select the mission.
-
-The virtual reality pods can be found in the right-most room of the Fog Owl. Students can open the mission select by standing on the green and black diagonal stripes, in front of the pod with the green light, and pressing <kbd>Space</kbd>.
-
-From the mission select screen, select JavaScript Test Lab. 
+The mission used in these lesson plans is found in the Navigation Map, and is called `The Javascript Test Lab`. Once students approach the Navigation Map, a red exclamation mark will appear over their characters. Students can then press <kbd>Space</kbd> to open the mission select screen. `The Javascript Test Lab` is located in the top left of the map, represented by a space station. Students can select `The Javascript Test Lab` and press the green **Go** button to start the mission.
 
 ## Beginning the Mission
 
-When students enter the mission, they will be greeted again by Cedric. Cedric can tell them more about what to expect from the mission, both in terms of what they will learn about Javascript, and also what work is being done in the Test Lab. Once they are ready, the first objective is on the right of the screen. It can be accessed by walking up to the console next to the laser field and pressing <kbd>Space</kbd>.
+Students begin the mission in the hangar, outside the Fog Owl. The exit to the hangar is to the south-east. After walking through a short corridor they will meet their first TwilioQuest Scientist, who will explain the purpose of the station and introduce the mission. They will be given a keycard to pass the first barrier, passing into a cafe staffed by a pair of robots. The only available exit from this room is to the north: the robots will also guide players to leave that way.
 
 ## Objective 1: Set up your Node.js environment
 

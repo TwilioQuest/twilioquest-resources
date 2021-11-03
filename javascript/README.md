@@ -10,11 +10,11 @@ These resources aim to give you everything you need to use the TwilioQuest missi
 - [Further resources](#further-resources): further information about external material referenced and linked in the course of the mission.
 - [IT/Sys-admin guide](#IT-guide): Preparing your school or student machines for the mission.
 
-# Mission contents
+## Mission contents
 
 The `JavaScript Test Lab` teaches the fundamentals of programming with JavaScript. It uses the JavaScript back-end runtime, Node.js, and so does not teach any browser-specific JavaSript concepts. You can find more information on Node.js vs Browser JavaScript in this [comparison](https://nodejs.dev/learn/differences-between-nodejs-and-the-browser).
 
-# Lesson plans
+## Lesson plans
 
 These example lesson plans are for a series of six 60-90 minute lessons covering Javascript fundamentals using the `Javascript Test Lab` as core teaching material. 
 
@@ -25,7 +25,7 @@ These example lesson plans are for a series of six 60-90 minute lessons covering
 - [Lesson 5: Loops and iteration](/javascript/lesson-plans/lesson-5.md)
 - [Lesson 6: Objects and classes](/javascript/lesson-plans/lesson-6.md)
 
-# Progress and class structure
+## Progress and class structure
 
 TwilioQuest has two mechanisms to group and organize students and keep tabs on their progress:
 
@@ -39,15 +39,15 @@ Here are some ways you might want to use adventure teams or operations in your c
 
 You can create adventure teams and operations from the [Operator console](https://twilio.com/quest/app/educator). When creating an adventure team or operation, you will be given a join code. Students can join the team or operation by entering the join code in the settings of their TwilioQuest app. 
 
-# Instructors' slides
+## Instructors' slides
 
 Instructors' slides are  coming soon! 
 
-# Sample solutions
+## Sample solutions
 
 Many of the objectives in TwilioQuest require the player to write code to progress. Here you can find sample solutions to pass each objective. It's important to note that in most programming languages, there are many ways to achieve an end result, and code may pass the objective that doesn't look exactly like the samples. Where more than one interesting solution exists for an objective, there may be more than one sample provided.
 
 You can view all samples [here](/sample-solutions).
-# Further resources
+## Further resources
 
-# IT Guide
+## IT Guide
